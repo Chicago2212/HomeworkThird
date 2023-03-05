@@ -12,4 +12,6 @@
 6. Закоммитил изменения в репозитории командой <span style="color:#4682B4">*get commit -m 'Текст'*</span>
 7. Внес изменения в файл <span style="color:#4682B4">*README.md*</span>
 8. Закоммитил изменения командой <span style="color:#4682B4">*git commit -am 'текст'*</span>. Параметр <span style="color:#4682B4">*-a*</span> автоматически добавляет все ранее отслежуемые файлы в индекс.
-
+9. С помощью команды <span style="color:#4682B4">*git push --set-upstream origin meHomeWork*</span> залил изменения на [github.com](github.com).
+10. На сайте [github.com](github.com) добавил изменения в описание и закоммитил
+11. Сделал pull request.
