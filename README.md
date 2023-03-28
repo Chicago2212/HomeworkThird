@@ -14,4 +14,8 @@ git checkout new;
 Внесла текст через маркдаун;
 git add;
 Git commit -m "hello";
+git push origin;
+git remote add origin и ссылку;
+git remote -v;
+git push origin new;
 
