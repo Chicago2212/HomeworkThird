@@ -76,6 +76,13 @@ git commit --amend -m 'Новый комментарий'
 
 git clone https://github.com/tutorialzine/awesome-project
 
+1. Fork
+2. clone-fork
+3. cd fork_name
+4. create branch_new
+5. checkout branch_new
+6. add-commit-push(git push --set-upstream origin branch_new)
+
 # __Заключение__ 
 
 >Теперь вы знаете, почему Git является популярнейшей из распределенных систем контроля версий. Мы познакомили вас с принципом его работы и показали, насколько эффективно она организована. Это надежный инструмент для совместной разработки проектов и отслеживания истории их развития.
