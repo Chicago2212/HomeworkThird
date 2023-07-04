@@ -36,3 +36,14 @@ git log --graph
 Переделать сообщение последнего коммита
 git commit --amend -m 'Новый комментарий'
 
+Создание новой ветки
+git branch branch_name
+
+Переключение между ветками
+git branch branch_name
+
+Слияние веток
+git merge branch_name - вливает branch_name в текущую ветку
+
+Удаление ветки
+git branch -d local_branch_name
